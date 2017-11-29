@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: e4baea599c4a19e49983cec5c77ebe38
+timeCreated: 1442584145
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Coffee
+    100002: Coin
+    100004: Cookie
+    100006: Glasses
+    100008: Hammer
+    100010: Hat_01
+    100012: Hat_02
+    100014: Hat_03
+    100016: Helmet_01
+    100018: Helmet_02
+    100020: Light_Saber
+    100022: //RootNode
+    100024: Shield
+    100026: Special_01
+    100028: Special_02
+    100030: Staff
+    100032: SuiteCase._Bottom
+    100034: SuiteCase_Top
+    100036: Sword
+    100038: Tie.03
+    100040: Tie_01
+    100042: Tie_02
+    100044: Glasses_01
+    100046: Glasses_02
+    100048: Hat_04
+    100050: Hat_04.001
+    400000: Coffee
+    400002: Coin
+    400004: Cookie
+    400006: Glasses
+    400008: Hammer
+    400010: Hat_01
+    400012: Hat_02
+    400014: Hat_03
+    400016: Helmet_01
+    400018: Helmet_02
+    400020: Light_Saber
+    400022: //RootNode
+    400024: Shield
+    400026: Special_01
+    400028: Special_02
+    400030: Staff
+    400032: SuiteCase._Bottom
+    400034: SuiteCase_Top
+    400036: Sword
+    400038: Tie.03
+    400040: Tie_01
+    400042: Tie_02
+    400044: Glasses_01
+    400046: Glasses_02
+    400048: Hat_04
+    400050: Hat_04.001
+    2300000: Coffee
+    2300002: Coin
+    2300004: Cookie
+    2300006: Glasses
+    2300008: Hammer
+    2300010: Hat_01
+    2300012: Hat_02
+    2300014: Hat_03
+    2300016: Helmet_01
+    2300018: Helmet_02
+    2300020: Light_Saber
+    2300022: Shield
+    2300024: Special_01
+    2300026: Special_02
+    2300028: Staff
+    2300030: SuiteCase._Bottom
+    2300032: SuiteCase_Top
+    2300034: Sword
+    2300036: Tie.03
+    2300038: Tie_01
+    2300040: Tie_02
+    2300042: Glasses_01
+    2300044: Glasses_02
+    2300046: Hat_04
+    2300048: Hat_04.001
+    3300000: Coffee
+    3300002: Coin
+    3300004: Cookie
+    3300006: Glasses
+    3300008: Hammer
+    3300010: Hat_01
+    3300012: Hat_02
+    3300014: Hat_03
+    3300016: Helmet_01
+    3300018: Helmet_02
+    3300020: Light_Saber
+    3300022: Shield
+    3300024: Special_01
+    3300026: Special_02
+    3300028: Staff
+    3300030: SuiteCase._Bottom
+    3300032: SuiteCase_Top
+    3300034: Sword
+    3300036: Tie.03
+    3300038: Tie_01
+    3300040: Tie_02
+    3300042: Glasses_01
+    3300044: Glasses_02
+    3300046: Hat_04
+    3300048: Hat_04.001
+    4300000: Shield
+    4300002: Sword
+    4300004: Light_Saber
+    4300006: Special_01
+    4300008: Staff
+    4300010: Tie.03
+    4300012: Hat_03
+    4300014: Hat_02
+    4300016: Tie_02
+    4300018: Special_02
+    4300020: Hammer
+    4300022: Hat_01
+    4300024: Coffee
+    4300026: Helmet_02
+    4300028: Coin
+    4300030: Helmet_01
+    4300032: Cookie
+    4300034: Tie_01
+    4300036: SuiteCase_Top
+    4300038: SuiteCase._Bottom
+    4300040: Glasses
+    4300042: Hat_04.001
+    4300044: Hat_04
+    4300046: Glasses_02
+    4300048: Glasses_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

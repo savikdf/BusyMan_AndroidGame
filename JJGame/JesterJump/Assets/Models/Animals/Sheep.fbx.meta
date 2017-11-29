@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 5ff117a1fcd2b1946a49a10bde25e792
+timeCreated: 1442067862
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: HughMan
+    100002: HughMawn
+    100004: HughMawn|Bone
+    100006: HughMawn|Bone.001
+    100008: HughMawn|Bone.002
+    100010: HughMawn|Bone.003
+    100012: HughMawn|Bone.004
+    100014: HughMawn|Bone.005
+    100016: HughMawn|Bone.006
+    100018: HughMawn|Bone.007
+    100020: HughMawn|Bone.008
+    100022: //RootNode
+    100024: Sheep
+    100026: Sheep.001
+    100028: Sheep|Bone
+    100030: Sheep|Bone.001
+    100032: Sheep|Bone.002
+    100034: Sheep|Bone.003
+    100036: Sheep|Bone.004
+    100038: Sheep|Bone.005
+    100040: Sheep|Bone.006
+    100042: Sheep|Bone.007
+    100044: Sheep|Bone.008
+    400000: HughMan
+    400002: HughMawn
+    400004: HughMawn|Bone
+    400006: HughMawn|Bone.001
+    400008: HughMawn|Bone.002
+    400010: HughMawn|Bone.003
+    400012: HughMawn|Bone.004
+    400014: HughMawn|Bone.005
+    400016: HughMawn|Bone.006
+    400018: HughMawn|Bone.007
+    400020: HughMawn|Bone.008
+    400022: //RootNode
+    400024: Sheep
+    400026: Sheep.001
+    400028: Sheep|Bone
+    400030: Sheep|Bone.001
+    400032: Sheep|Bone.002
+    400034: Sheep|Bone.003
+    400036: Sheep|Bone.004
+    400038: Sheep|Bone.005
+    400040: Sheep|Bone.006
+    400042: Sheep|Bone.007
+    400044: Sheep|Bone.008
+    4300000: HughMan
+    4300002: Sheep.001
+    9500000: //RootNode
+    13700000: HughMan
+    13700002: Sheep.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
